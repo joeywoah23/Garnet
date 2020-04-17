@@ -1,9 +1,9 @@
 const config = {
   // Bot Owner, level 10 by default. A User ID. Should never be anything else than the bot owner's ID.
-  "ownerID": "your id",
+  "ownerID": "630817206145646602",
 
   // Bot Admins, level 9 by default. Array of user ID strings.
-  "admins": [""],
+  "admins": ["469314788254810125", "699795454468030476", "437300538866925588", "471078204178694144", "143957133677821952"],
 
   // Bot Support, level 8 by default. Array of user ID strings
   "support": ["278620217221971968"],
@@ -22,14 +22,14 @@ const config = {
   
   "defaultSettings" : {
     // your prefix goes below
-    "prefix": "prefix here",
-    "modLogChannel": "mod-log",
-    "modRole": "Moderator",
-    "adminRole": "Council",
+    "prefix": "c?",
+    "modLogChannel": "♡-･ﾟmod-logs",
+    "modRole": "♡ Moderators",
+    "adminRole": "♡ Administrators",
     "systemNotice": "true", // This gives a notice when a user tries to run a command that they do not have permission to use.
-    "welcomeChannel": "welcome",
-    "welcomeMessage": "Say hello to {{user}}, everyone! We all need a warm welcome sometimes :D",
-    "welcomeEnabled": "false"
+    "welcomeChannel": "♡-･ﾟwelcome",
+    "welcomeMessage": "Hello {{user}}! Welcome to angela's dreamuhs! Have a great time!",
+    "welcomeEnabled": "true"
   },
 
   // PERMISSION LEVEL DEFINITIONS.
